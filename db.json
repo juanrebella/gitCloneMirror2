@@ -248,38 +248,5 @@
       "name": "Japon",
       "trophies": "0"
     }
-  ],
-  
-  "teams_africa": [
-    {
-      "team_id": "1",
-      "group_id": "1",
-      "name": "Egipto",
-      "trophies": "0"
-    },
-    {
-      "team_id": "2",
-      "group_id": "2",
-      "name": "Marruecos",
-      "trophies": "0"
-    },
-    {
-      "team_id": "3",
-      "group_id": "4",
-      "name": "Nigeria",
-      "trophies": "0"
-    },
-    {
-      "team_id": "4",
-      "group_id": "8",
-      "name": "Senegal",
-      "trophies": "0"
-    },
-    {
-      "team_id": "5",
-      "group_id": "7",
-      "name": "Tunez",
-      "trophies": "0"
-    }
   ]
 }
