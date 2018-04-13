@@ -6,91 +6,97 @@
     "stadiums_name": "Luzhniki Stadium",
     "stadiums_city": "Moscow",
     "stadiums_lat": "55.715765",
-    "stadiums_lng": "37.5515217"
+    "stadiums_lng": "37.5515217",
+      "url": ""
   },
   {
     "stadiums_id": "2",
     "stadiums_name": "Otkrytiye Arena",
     "stadiums_city": "Moscow",
     "stadiums_lat": "55.817765",
-    "stadiums_lng": "37.4403630"
+    "stadiums_lng": "37.4403630",
+      "url": ""
   },
   {
     "stadiums_id": "3",
     "stadiums_name": "Krestovsky Stadium",
     "stadiums_city": "Saint Petersburg",
     "stadiums_lat": "59.972740",
-    "stadiums_lng": "30.2214080"
+    "stadiums_lng": "30.2214080",
+      "url": ""
   },
   {
     "stadiums_id": "4",
     "stadiums_name": "Kaliningrad Stadium",
     "stadiums_city": "Kaliningrad",
     "stadiums_lat": "54.698157",
-    "stadiums_lng": "20.5338590"
+    "stadiums_lng": "20.5338590",
+      "url": ""
   },
   {
     "stadiums_id": "5",
     "stadiums_name": "Kazan Arena",
     "stadiums_city": "Kazan",
     "stadiums_lat": "55.820983",
-    "stadiums_lng": "49.1609660"
+    "stadiums_lng": "49.1609660",
+      "url": ""
   },
   {
     "stadiums_id": "6",
     "stadiums_name": "Nizhny Novgorod Stadium",
     "stadiums_city": "Nizhny Novgorod",
     "stadiums_lat": "56.337287",
-    "stadiums_lng": "43.9632510"
+    "stadiums_lng": "43.9632510",
+      "url": ""
   },
   {
     "stadiums_id": "7",
     "stadiums_name": "Cosmos Arena",
     "stadiums_city": "Samara",
     "stadiums_lat": "53.278146",
-    "stadiums_lng": "50.2388540"
+    "stadiums_lng": "50.2388540",
+      "url": ""
   },
   {
     "stadiums_id": "8",
     "stadiums_name": "Volgograd Arena",
     "stadiums_city": "Volgograd",
     "stadiums_lat": "48.734195",
-    "stadiums_lng": "44.5483450"
+    "stadiums_lng": "44.5483450",
+      "url": ""
   },
   {
     "stadiums_id": "9",
     "stadiums_name": "Mordovia Arena",
     "stadiums_city": "Saransk",
     "stadiums_lat": "54.181795",
-    "stadiums_lng": "45.2038510"
+    "stadiums_lng": "45.2038510",
+      "url": ""
   },
   {
     "stadiums_id": "10",
     "stadiums_name": "Rostov Arena",
     "stadiums_city": "Rostov-on-Don",
     "stadiums_lat": "47.209581",
-    "stadiums_lng": "39.7384240"
+    "stadiums_lng": "39.7384240",
+      "url": ""
   },
   {
     "stadiums_id": "11",
     "stadiums_name": "Fisht Olympic Stadium",
     "stadiums_city": "Sochi",
     "stadiums_lat": "43.402011",
-    "stadiums_lng": "39.9557090"
+    "stadiums_lng": "39.9557090",
+      "url": ""
   },
   {
     "stadiums_id": "12",
     "stadiums_name": "Central Stadium",
     "stadiums_city": "Yekaterinburg",
     "stadiums_lat": "56.832490",
-    "stadiums_lng": "60.5735850"
-  },
-  {
-    "stadiums_id": "12",
-    "stadiums_name": "Central Stadium",
-    "stadiums_city": "Yekaterinburg",
-    "stadiums_lat": "56.832490",
-    "stadiums_lng": "60.5735850"
+    "stadiums_lng": "60.5735850",
+      "url": ""
+   
   }
  ],
  
@@ -99,85 +105,99 @@
       "team_id": "1",
       "group_id": "6",
       "name": "Alemania",
-      "trophies": "5"
+      "trophies": "5",
+      "url": ""
     },
     {
       "team_id": "2",
       "group_id": "7",
       "name": "Belgica",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     },
     {
       "team_id": "3",
       "group_id": "4",
       "name": "Croacia",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     },
     {
       "team_id": "4",
       "group_id": "3",
       "name": "Dinamarca",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     },
     {
       "team_id": "5",
       "group_id": "2",
       "name": "España",
-      "trophies": "1"
+      "trophies": "1",
+      "url": ""
     },
     {
       "team_id": "6",
       "group_id": "3",
       "name": "Francia",
-      "trophies": "1"
+      "trophies": "1",
+      "url": ""
     },
     {
       "team_id": "7",
       "group_id": "6",
       "name": "Inglaterra",
-      "trophies": "1"
+      "trophies": "1",
+      "url": ""
     },
     {
       "team_id": "8",
       "group_id": "4",
       "name": "Islandia",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     },
     {
       "team_id": "9",
       "group_id": "8",
       "name": "Polonia",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     },
     {
       "team_id": "10",
       "group_id": "2",
       "name": "Portugal",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     },
     {
       "team_id": "11",
       "group_id": "1",
       "name": "Rusia",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     },
     {
       "team_id": "12",
       "group_id": "5",
       "name": "Serbia",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     },
     {
       "team_id": "13",
       "group_id": "6",
       "name": "Suecia",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     },
     {
       "team_id": "14",
       "group_id": "5",
       "name": "Suiza",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     }
   ],
   
@@ -186,31 +206,36 @@
       "team_id": "1",
       "group_id": "1",
       "name": "Uruguay",
-      "trophies": "2"
+      "trophies": "2",
+      "url" : "https://image.ibb.co/gF2Cp7/latest_cb_20150803001410.png"
     },
     {
       "team_id": "2",
       "group_id": "4",
       "name": "Argentina",
-      "trophies": "2"
+      "trophies": "2",
+      "url": ""
     },
     {
       "team_id": "3",
       "group_id": "4",
       "name": "Brasil",
-      "trophies": "5"
+      "trophies": "5",
+      "url": ""
     },
     {
       "team_id": "4",
       "group_id": "8",
       "name": "Colombia",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     },
     {
       "team_id": "5",
       "group_id": "3",
       "name": "Peru",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     }
   ],
   
@@ -219,7 +244,8 @@
       "team_id": "1",
       "group_id": "3",
       "name": "Australia",
-      "trophies": "0"
+      "trophies": "0",
+      "url": "https://image.ibb.co/hmpxNS/Socceroos_logo.png"
     }
   ],
   
@@ -228,25 +254,29 @@
       "team_id": "1",
       "group_id": "1",
       "name": "Arabia Saudita",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     },
     {
       "team_id": "2",
       "group_id": "6",
       "name": "Corea del Sur",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     },
     {
       "team_id": "3",
       "group_id": "2",
       "name": "Iran",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     },
     {
       "team_id": "4",
       "group_id": "8",
       "name": "Japon",
-      "trophies": "0"
+      "trophies": "0",
+      "url": ""
     }
   ]
 }
